@@ -1,0 +1,15 @@
+.main_container {
+    display: grid;
+}
+
+.user_list {
+    border: 1px solid black;
+}
+
+.communication_container {
+    border: 1px solid black;
+}
+
+.input {
+    border: 1px solid black;
+} 
