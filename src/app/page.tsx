@@ -1,9 +1,8 @@
 import Image from "next/image";
-import style_home from "./home.module.css"
+import Topbar from "./components/topbar/topbar";
 
 export default function Home() {
   return (
-    <div className={ style_home.main_container }>
-    </div>
+    <Topbar></Topbar>
   );
 }
